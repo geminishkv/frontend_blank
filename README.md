@@ -27,4 +27,4 @@ install other dependencies via npm: <br>
 https://sass-lang.com/
 It is preferred to use sass instead of pure css (gulp is tracking changes in .scss and automatically converts to .css). No need to set-up. Just code.
 <br>
-Please, write to karen@jadebear.ltd
+In case of any issues please write to karen@jadebear.ltd
