@@ -1,1 +1,1 @@
-# frontend_blank
+# Blank front-end project
