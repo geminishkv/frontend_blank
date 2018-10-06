@@ -4,7 +4,7 @@
 ### NPM
 2. Install npm - https://docs.npmjs.com/cli/install
 3. Read npm docs and change "package.json" file, which should contain information about your project
-4. Check dependencies in npm and add/install additional if needed. Check docs if needed.
+4. Check dependencies in npm and add/install additional if needed. Check docs if needed. <br>
  **!IMPORTANT** save all dependencies with --save-dev at the end
 `sudo npm install <package> --save-dev`
 5. Install pre-defined dependencies (bootstrap, jquery) if needed:
