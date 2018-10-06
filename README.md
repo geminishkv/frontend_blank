@@ -1,3 +1,4 @@
+
 # Blank front-end project
 ### Start
 1. Clone this repository
@@ -20,3 +21,10 @@ install locally and install BrowserSync <br>
 `npm install browser-sync gulp --save-dev` <br> 
 install other dependencies via npm: <br>
 `npm install gulp-sass gulp-uglify gulp-concat gulp-rename --save-dev` <br>
+9. launch gulp (`gulp` command) and start coding. 
+
+### SASS
+https://sass-lang.com/
+It is preferred to use sass instead of pure css (gulp is tracking changes in .scss and automatically converts to .css). No need to set-up. Just code.
+<br>
+Please, write to karen@jadebear.ltd
