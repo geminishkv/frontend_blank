@@ -16,7 +16,9 @@ or update <br>
 7. Check pre-defined gulpfile.js in this repository 
 8. Install gulp globally <br>
 `npm install gulp -g` <br>
+<br>
 install locally and install BrowserSync <br>
 `npm install browser-sync gulp --save-dev` <br>
+<br>
 install other dependencies via npm: <br>
 `npm install gulp-sass gulp-uglify gulp-concat gulp-rename --save-dev` <br>
